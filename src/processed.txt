@@ -1,0 +1,17 @@
+null(334), 11/7/2019, 06:12:19.596 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PingPlaybackDevice | ms | 202 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:20.170 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 323 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:23.630 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 312 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:25.713 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 529 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:28.672 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 226 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:29.791 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PingPlaybackDevice | ms | 218 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:30.293 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 214 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:33.002 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 237 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:33.334 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 315 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:35.440 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 548 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:38.423 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 225 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:38.535 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd0 | % | 2.8815812 | -1.79769E+307 | 10 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.542 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd1 | % | 1.4623727 | -1.79769E+307 | 10.5 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.550 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd6 | % | 3.1468962 | -1.79769E+307 | 6 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.557 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd0 | % | 4.6884726 | -1.79769E+307 | 10 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.564 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd1 | % | 1.8788729 | -1.79769E+307 | 10.5 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.571 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd6 | % | 2.7020404 | -1.79769E+307 | 6 | UpperLimitsOnly

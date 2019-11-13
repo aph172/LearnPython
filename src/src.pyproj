@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{f00adfd8-4df4-4ff0-b50a-122061702068}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>hello_world.py</StartupFile>
+    <StartupFile>file.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -20,6 +20,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Car.py" />
+    <Compile Include="file.py" />
     <Compile Include="hello_world.py" />
     <Compile Include="making-pizzas.py" />
     <Compile Include="myCar.py" />
