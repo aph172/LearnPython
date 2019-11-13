@@ -1,0 +1,172 @@
+FileLocation, Date, Time, TestName, VariationName, DUT Serial #, Notes
+null(701), 11/7/2019, 06:12:18.195 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Test Started - AudioSpeakerTest:HkSIT_AudioSpeakerTest
+null(373), 11/7/2019, 06:12:18.198 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | MachineName | E1787216
+null(374), 11/7/2019, 06:12:18.201 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | TestSuiteName | EnHP.Dev_9.09.9999.99_20191107_PRIV_SZVCMW
+null(375), 11/7/2019, 06:12:18.203 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | SlotId | 0
+null(376), 11/7/2019, 06:12:18.206 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | SiteName | Pegatron  China
+null(377), 11/7/2019, 06:12:18.208 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | SiteType | ContractManufacturer
+null(378), 11/7/2019, 06:12:18.211 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | DutPartNumber | M1115244-001
+null(379), 11/7/2019, 06:12:18.246 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, 2E5FC064-E9C1-4094-8D08-20E15AFD2ED1 | Operator | SZVCMW\s19064390
+null(673), 11/7/2019, 06:12:18.249 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TesterID:E1787216
+null(425), 11/7/2019, 06:12:18.253 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start Left speaker test.
+null(466), 11/7/2019, 06:12:18.582 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Left Fixture microphone calibration offset=158.407298316325
+null(137), 11/7/2019, 06:12:19.594 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PingPlaybackDevice: 202(ms)
+null(334), 11/7/2019, 06:12:19.596 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PingPlaybackDevice | ms | 202 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(506), 11/7/2019, 06:12:19.600 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 500Hz
+null(172), 11/7/2019, 06:12:19.829 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:19.832 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:19.835 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 224(ms)
+null(334), 11/7/2019, 06:12:19.838 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 224 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(521), 11/7/2019, 06:12:19.841 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Unmute DUT speaker.
+null(137), 11/7/2019, 06:12:20.167 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_EnableMute: 323(ms)
+null(334), 11/7/2019, 06:12:20.170 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 323 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:20.173 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 500Hz
+null(137), 11/7/2019, 06:12:20.479 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 302(ms)
+null(334), 11/7/2019, 06:12:20.482 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 302 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:20.989 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:22.022 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 500Hz.
+null(137), 11/7/2019, 06:12:22.932 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 907(ms)
+null(334), 11/7/2019, 06:12:22.935 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 907 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:22.938 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 500Hz.
+null(570), 11/7/2019, 06:12:22.941 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 500Hz.
+null(758), 11/7/2019, 06:12:22.943 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] Captured wave channel number: 2
+null(484), 11/7/2019, 06:12:22.944 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 500Hz.
+null(912), 11/7/2019, 06:12:22.951 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(506), 11/7/2019, 06:12:22.951 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 1000Hz
+null(866), 11/7/2019, 06:12:23.079 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] frequencyPeaks.Length=2  Values=49.8046875 500.244140625  Peak Frequency=500.244140625
+null(867), 11/7/2019, 06:12:23.082 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] powerIndBs.Length=2  Values=-122.405649705849 -51.294888903953  measured power=-51.294888903953
+null(867), 11/7/2019, 06:12:23.085 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] numberOfHarmonics: current value = 2  max allowed value = 95
+null(909), 11/7/2019, 06:12:23.241 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=500Hz] thdValues.Length=2  Values=96.846815222463 2.88158116319798  THD=2.88158116319798
+null(172), 11/7/2019, 06:12:23.299 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:23.301 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:23.304 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 340(ms)
+null(334), 11/7/2019, 06:12:23.307 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 340 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:23.310 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 1000Hz
+null(137), 11/7/2019, 06:12:23.627 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 312(ms)
+null(334), 11/7/2019, 06:12:23.630 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 312 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:24.137 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:25.177 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 1000Hz.
+null(137), 11/7/2019, 06:12:25.710 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 529(ms)
+null(334), 11/7/2019, 06:12:25.713 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 529 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:25.719 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 1000Hz.
+null(758), 11/7/2019, 06:12:25.722 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] Captured wave channel number: 2
+null(570), 11/7/2019, 06:12:25.722 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 1000Hz.
+null(484), 11/7/2019, 06:12:25.729 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 1000Hz.
+null(912), 11/7/2019, 06:12:25.729 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(506), 11/7/2019, 06:12:25.736 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 6000Hz
+null(866), 11/7/2019, 06:12:25.863 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] frequencyPeaks.Length=2  Values=20006.103515625 999.755859375  Peak Frequency=999.755859375
+null(867), 11/7/2019, 06:12:25.866 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] powerIndBs.Length=2  Values=-122.557487097421 -49.2446209987609  measured power=-49.2446209987609
+null(867), 11/7/2019, 06:12:25.869 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] numberOfHarmonics: current value = 2  max allowed value = 47
+null(172), 11/7/2019, 06:12:25.976 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:25.979 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:25.982 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 236(ms)
+null(334), 11/7/2019, 06:12:26.006 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 236 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:26.013 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 6000Hz
+null(909), 11/7/2019, 06:12:26.014 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=1000Hz] thdValues.Length=2  Values=72.91331769794 1.46237271189394  THD=1.46237271189394
+null(137), 11/7/2019, 06:12:26.327 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 310(ms)
+null(334), 11/7/2019, 06:12:26.330 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 310 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:26.838 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:27.869 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 6000Hz.
+null(137), 11/7/2019, 06:12:28.414 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 540(ms)
+null(334), 11/7/2019, 06:12:28.417 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 540 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:28.423 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 6000Hz.
+null(758), 11/7/2019, 06:12:28.426 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] Captured wave channel number: 2
+null(570), 11/7/2019, 06:12:28.426 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 6000Hz.
+null(484), 11/7/2019, 06:12:28.433 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 6000Hz.
+null(912), 11/7/2019, 06:12:28.433 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(581), 11/7/2019, 06:12:28.438 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Mute DUT speaker.
+null(866), 11/7/2019, 06:12:28.580 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] frequencyPeaks.Length=2  Values=6000 6000  Peak Frequency=6000
+null(867), 11/7/2019, 06:12:28.585 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] powerIndBs.Length=2  Values=-120.997902513053 -41.9045507132341  measured power=-41.9045507132341
+null(867), 11/7/2019, 06:12:28.587 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] numberOfHarmonics: current value = 2  max allowed value = 7
+null(137), 11/7/2019, 06:12:28.669 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_EnableMute: 226(ms)
+null(334), 11/7/2019, 06:12:28.672 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 226 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(425), 11/7/2019, 06:12:28.678 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of Left speaker test.
+null(909), 11/7/2019, 06:12:28.736 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Left channel  f=6000Hz] thdValues.Length=2  Values=67.4688036987025 3.14689618121053  THD=3.14689618121053
+null(425), 11/7/2019, 06:12:28.783 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start Right speaker test.
+null(466), 11/7/2019, 06:12:29.057 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Right Fixture microphone calibration offset=157.226199335751
+null(137), 11/7/2019, 06:12:29.787 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PingPlaybackDevice: 218(ms)
+null(334), 11/7/2019, 06:12:29.791 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PingPlaybackDevice | ms | 218 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(506), 11/7/2019, 06:12:29.798 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 500Hz
+null(172), 11/7/2019, 06:12:30.057 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:30.060 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:30.063 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 254(ms)
+null(334), 11/7/2019, 06:12:30.066 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 254 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(521), 11/7/2019, 06:12:30.072 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Unmute DUT speaker.
+null(137), 11/7/2019, 06:12:30.290 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_EnableMute: 214(ms)
+null(334), 11/7/2019, 06:12:30.293 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 214 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:30.299 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 500Hz
+null(137), 11/7/2019, 06:12:30.627 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 324(ms)
+null(334), 11/7/2019, 06:12:30.630 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 324 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:31.138 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:32.184 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 500Hz.
+null(137), 11/7/2019, 06:12:32.726 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 537(ms)
+null(334), 11/7/2019, 06:12:32.729 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 537 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:32.736 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 500Hz.
+null(758), 11/7/2019, 06:12:32.739 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] Captured wave channel number: 2
+null(570), 11/7/2019, 06:12:32.739 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 500Hz.
+null(484), 11/7/2019, 06:12:32.745 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 500Hz.
+null(912), 11/7/2019, 06:12:32.745 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(506), 11/7/2019, 06:12:32.749 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 1000Hz
+null(866), 11/7/2019, 06:12:32.877 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] frequencyPeaks.Length=2  Values=20006.103515625 500.244140625  Peak Frequency=500.244140625
+null(867), 11/7/2019, 06:12:32.881 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] powerIndBs.Length=2  Values=-122.715368417435 -51.6335652688686  measured power=-51.6335652688686
+null(867), 11/7/2019, 06:12:32.884 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] numberOfHarmonics: current value = 2  max allowed value = 95
+null(172), 11/7/2019, 06:12:32.992 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:32.995 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:32.998 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 237(ms)
+null(334), 11/7/2019, 06:12:33.002 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 237 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:33.013 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 1000Hz
+null(909), 11/7/2019, 06:12:33.032 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=500Hz] thdValues.Length=2  Values=94.2284992362919 4.68847259251633  THD=4.68847259251633
+null(137), 11/7/2019, 06:12:33.331 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 315(ms)
+null(334), 11/7/2019, 06:12:33.334 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 315 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:33.842 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:34.887 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 1000Hz.
+null(137), 11/7/2019, 06:12:35.437 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 548(ms)
+null(334), 11/7/2019, 06:12:35.440 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 548 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:35.447 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 1000Hz.
+null(758), 11/7/2019, 06:12:35.450 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] Captured wave channel number: 2
+null(570), 11/7/2019, 06:12:35.450 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 1000Hz.
+null(484), 11/7/2019, 06:12:35.456 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 1000Hz.
+null(912), 11/7/2019, 06:12:35.456 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(506), 11/7/2019, 06:12:35.464 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Prepare to playback for 6000Hz
+null(866), 11/7/2019, 06:12:35.586 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] frequencyPeaks.Length=2  Values=67.3828125 999.755859375  Peak Frequency=999.755859375
+null(867), 11/7/2019, 06:12:35.589 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] powerIndBs.Length=2  Values=-122.714636400642 -49.7851634193542  measured power=-49.7851634193542
+null(867), 11/7/2019, 06:12:35.592 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] numberOfHarmonics: current value = 2  max allowed value = 47
+null(172), 11/7/2019, 06:12:35.727 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Warning: Measurement name TT_DEV_PrepareTonePlaybackDevice is greater than TCS character limit 30
+null(176), 11/7/2019, 06:12:35.730 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, New measurement name: TT_DEV_PrepareTonePlaybackDevi after truncating.
+null(137), 11/7/2019, 06:12:35.733 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_PrepareTonePlaybackDevi: 258(ms)
+null(334), 11/7/2019, 06:12:35.736 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_PrepareTonePlaybackDevi | ms | 258 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:35.740 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to playback for 6000Hz
+null(909), 11/7/2019, 06:12:35.757 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=1000Hz] thdValues.Length=2  Values=103.96143792313 1.87887289575461  THD=1.87887289575461
+null(137), 11/7/2019, 06:12:36.064 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_StartPlaybackAsync: 320(ms)
+null(334), 11/7/2019, 06:12:36.067 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_StartPlaybackAsync | ms | 320 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(533), 11/7/2019, 06:12:36.573 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Start to capture 96000 samples.
+null(552), 11/7/2019, 06:12:37.614 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of capturing for 6000Hz.
+null(137), 11/7/2019, 06:12:38.165 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_CompletePlayback: 547(ms)
+null(334), 11/7/2019, 06:12:38.168 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_CompletePlayback | ms | 547 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(552), 11/7/2019, 06:12:38.174 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of playback for 6000Hz.
+null(758), 11/7/2019, 06:12:38.178 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] Captured wave channel number: 2
+null(570), 11/7/2019, 06:12:38.178 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Started new SaveAndAnalyze task for 6000Hz.
+null(484), 11/7/2019, 06:12:38.184 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Added the task to wait list for 6000Hz.
+null(912), 11/7/2019, 06:12:38.184 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] NumberOfHarmonics=2  StartFrequency=20  EndFrequency=48000
+null(581), 11/7/2019, 06:12:38.190 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Mute DUT speaker.
+null(866), 11/7/2019, 06:12:38.317 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] frequencyPeaks.Length=2  Values=20006.103515625 6000  Peak Frequency=6000
+null(867), 11/7/2019, 06:12:38.320 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] powerIndBs.Length=2  Values=-122.541405150589 -46.5505133730071  measured power=-46.5505133730071
+null(867), 11/7/2019, 06:12:38.323 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] numberOfHarmonics: current value = 2  max allowed value = 7
+null(137), 11/7/2019, 06:12:38.419 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TimeProfiler measurement TT_DEV_EnableMute: 225(ms)
+null(334), 11/7/2019, 06:12:38.423 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, TT_DEV_EnableMute | ms | 225 | -1.79769E+307 | 1.79769E+307 | UpperAndLowerLimits
+null(425), 11/7/2019, 06:12:38.426 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, End of Right speaker test.
+null(909), 11/7/2019, 06:12:38.467 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, [Analyze Right channel  f=6000Hz] thdValues.Length=2  Values=118.668443772883 2.70204043464095  THD=2.70204043464095
+null(334), 11/7/2019, 06:12:38.532 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerLevel0 | dB | 107.11241 | 97 | 1.79769E+307 | LowerLimitsOnly
+null(334), 11/7/2019, 06:12:38.535 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd0 | % | 2.8815812 | -1.79769E+307 | 10 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.539 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerLevel1 | dB | 109.16268 | 100 | 116 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:38.542 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd1 | % | 1.4623727 | -1.79769E+307 | 10.5 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.546 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerLevel6 | dB | 116.50275 | 102 | 1.79769E+307 | LowerLimitsOnly
+null(334), 11/7/2019, 06:12:38.550 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, LeftSpeakerThd6 | % | 3.1468962 | -1.79769E+307 | 6 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.553 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerLevel0 | dB | 105.59263 | 97 | 1.79769E+307 | LowerLimitsOnly
+null(334), 11/7/2019, 06:12:38.557 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd0 | % | 4.6884726 | -1.79769E+307 | 10 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.560 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerLevel1 | dB | 107.44104 | 100 | 115 | UpperAndLowerLimits
+null(334), 11/7/2019, 06:12:38.564 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd1 | % | 1.8788729 | -1.79769E+307 | 10.5 | UpperLimitsOnly
+null(334), 11/7/2019, 06:12:38.567 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerLevel6 | dB | 110.67569 | 100 | 1.79769E+307 | LowerLimitsOnly
+null(334), 11/7/2019, 06:12:38.571 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, RightSpeakerThd6 | % | 2.7020404 | -1.79769E+307 | 6 | UpperLimitsOnly
+null(715), 11/7/2019, 06:12:38.574 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Success
+null(724), 11/7/2019, 06:12:38.578 PM, AudioSpeakerTest, HkSIT_AudioSpeakerTest, 021729793957, Test Finished
